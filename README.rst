@@ -2,7 +2,6 @@
 mrg32k3a
 ========
 
-
 .. image:: https://img.shields.io/pypi/v/mrg32k3a.svg
         :target: https://pypi.python.org/pypi/mrg32k3a
 
@@ -12,13 +11,6 @@ mrg32k3a
 .. image:: https://readthedocs.org/projects/mrg32k3a/badge/?version=latest
         :target: https://mrg32k3a.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
-
-
-.. image:: https://pyup.io/repos/github/joelfrederico/mrg32k3a/shield.svg
-     :target: https://pyup.io/repos/github/joelfrederico/mrg32k3a/
-     :alt: Updates
-
-
 
 Python package witth buffered C++ implementation of mrg32k3a
 
